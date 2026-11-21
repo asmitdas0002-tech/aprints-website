@@ -1,0 +1,8 @@
+name = "aprints-website"
+compatibility_date = "2025-01-01"
+main = "src/index.js"
+
+[vars]
+BUSINESS_NAME = "A PRINTS"
+BUSINESS_PHONE = "+91 8135956820"
+BUSINESS_ADDRESS = "The Assam Kaziranga University, Jorhat, Assam, India"
